@@ -16,6 +16,10 @@ class Categoria extends Controller{
     function inserir(){
         
     }
+
+    function excluir($id){
+        $this->model->delete($id);
+    }
 }
 
 

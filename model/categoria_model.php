@@ -47,9 +47,7 @@ class Categoria_model{
             return $resultado->fetch_assoc();
         }
         return null;
-    }
-
-
-       
+    }       
 }
+
 ?>
