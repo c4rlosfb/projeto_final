@@ -1,8 +1,8 @@
 <div class="container mt-2">
-    <h1> Listagem de Produtos </h1>
+    <h1> Listagem de Professores </h1>
     <hr>
 
-    <a href="<?= base_url() . "?c=produto&m=add"?>" class="btn btn-success">Inserir Produto</a>
+    <a href="<?= base_url() . "?c=produto&m=add"?>" class="btn btn-success">Inserir Professores</a>
 
     <table class="table table-hover">
         <thead>

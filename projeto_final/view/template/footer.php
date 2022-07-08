@@ -1,6 +1,6 @@
 <!-- Footer : Rodapé -->
 <footer class="container-fluid" style="background-color: black;">
-        <p class="text-center text-white"> Catálogo do IF - Todos os direitos reservados </p>
+        <p class="text-center text-white"> Catálogo do IF - By Carlos Felipe - Todos os direitos reservados </p>
     </footer>
     
     <!-- Optional JavaScript; choose one of the two! -->

@@ -21,6 +21,6 @@
       <a href="<?= base_url() . "?c=home" ?>" class="text-white text-decoration-none">
         <h1> Catálogo do IF </h1>
       </a>
-      <p> Aqui você encontra de tudo! </p>
+      <p> Aqui você encontra tudo e todos ;) </p>
     </div>
   </header>

@@ -1,6 +1,6 @@
 <!-- conteúdo da página -->
 <div class="container mt-2 mb-3">
-  <h1>Cadastro de Produto<h1>
+  <h1>Cadastro de Pessoas<h1>
       <hr>
 
       <form method="POST" action="<?= base_url() . "?c=produto&m=salvar" ?> "enctype="multipart/form-data">
@@ -20,7 +20,7 @@
         </div>
 
         <div class="mb-3">
-          <label for="preco" class="form-label">Preço</label>
+          <label for="preco" class="form-label">Salário</label>
           <input type="number" step="0.01" class="form-control" id="preco" name="preco" value="<?= $produto['preco'] ?? '' ?>">
 
         </div>

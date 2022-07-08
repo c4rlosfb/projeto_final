@@ -8,10 +8,10 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="<?= base_url() . "?c=categoria" ?>">Categoria</a>
+          <a class="nav-link active" aria-current="page" href="<?= base_url() . "?c=categoria" ?>">Professores</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="<?= base_url() . "?c=produto" ?>">Produtos</a>
+          <a class="nav-link" href="<?= base_url() . "?c=produto" ?>">Pessoas</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="<?= base_url() . "?c=usuario" ?>">Usuários</a>
